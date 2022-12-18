@@ -11,7 +11,8 @@ Jupyter notebook on Google colab, Python, Matplotlib
 - Why I choose Nodeflair job openings data as my data sources: job specialization are properly labeled for each job opening. 
 
 # Next step
- - [X] Number of job openings by specialization (static data, last updated: 18 Dec 2022)
- - [] Make the data refresh weekly
- - [] As a tech job seeker, I want to know what types of company (industry, size of company)are hiring so that I can better target those companies.
- - [] Make the data available as an interactive dashboard
+- [X] Number of job openings by specialization (static data, last updated: 18 Dec 2022)
+- [ ] Checkbox not checked
+- [ ] Make the data refresh weekly
+- [ ] As a tech job seeker, I want to know what types of company (industry, size of company)are hiring so that I can better target those companies.
+- [ ] Make the data available as an interactive dashboard
