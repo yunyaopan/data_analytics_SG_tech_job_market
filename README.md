@@ -8,7 +8,14 @@ Jupyter notebook on Google colab, Python, Matplotlib
 
 # Data source
 - Nodeflair job openings data
-- Why I choose Nodeflair job openings data as my data sources: job specialization are properly labeled for each job opening. 
+- Why I choose Nodeflair job openings data as my data sources: job specialization are properly labeled for each job opening.
+
+# Key insights
+![image](https://user-images.githubusercontent.com/35031745/208281564-3b3a543e-d73b-4a20-9e17-ab4cb66e3c82.png)
+As of Dec 18, 2022:
+The market favors generalists (full-stack developers) as compared to specialists. There are 3.4 times more full-stack developer roles than backend developers, which is the most popular specialist role.
+There are 2.36 times more backend developer roles compared to frontend developer roles
+Data related roles accounts for 13% of the entire tech job market.
 
 # Next step
 - [X] Number of job openings by specialization (static data, last updated: 18 Dec 2022)
